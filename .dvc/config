@@ -1,0 +1,5 @@
+[core]
+    remote = cloudru
+['remote "cloudru"']
+    url = s3://final-project-p2p/test_Data_Science_IDP
+    endpointurl = https://s3.cloud.ru
